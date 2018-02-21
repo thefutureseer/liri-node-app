@@ -1,4 +1,2 @@
-
-//make sure package.json is not added to the gitignore
 node_modules
 .DS_Store
