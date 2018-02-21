@@ -14,6 +14,6 @@ var spotify = new Spotify({
   secret: 'cb18f68dfd434c90a374f523cb9a117b'
 
 });
- 
+
 module.exports = spotify;
 */

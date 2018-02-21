@@ -1,0 +1,245 @@
+User Command: node liri.js spotify-this-song Hello 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Hello
+Artist: Adele
+Album: Hello
+Preview Here: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null
+
+User Command: node liri.js spotify-this-song Womanizer 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Womanizer
+Artist: Britney Spears
+Album: Circus (Deluxe Version)
+Preview Here: https://p.scdn.co/mp3-preview/40c87bb00fe6bab71f758643b2d1e598c5374410?cid=null
+
+User Command: node liri.js spotify-this-song Toxic 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Toxic
+Artist: Britney Spears
+Album: In The Zone
+Preview Here: https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=null
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+Created on: Tue Feb 13 09:20:40 +0000 2018
+Tweet content: @kontrol_theory I disagree.The article implies that programming should not be treated as a new fad or the flavor of the season.That's all.
+------------------------
+
+https://t.co/S3o1DeqysZ
+------------------------
+Created on: Mon Feb 12 17:23:30 +0000 2018
+Tweet content: “Don’t Pursue Programming if You Aren’t Passionate About It” by @ebbv https://t.co/UiOTLVoeN4
+------------------------
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Feb 13 09:20:40 +0000 2018
+Tweet content: @kontrol_theory I disagree.The article implies that programming should not be treated as a new fad or the flavor of the season.That's all.
+------------------------
+
+https://t.co/S3o1DeqysZ
+------------------------
+Created on: Mon Feb 12 17:23:30 +0000 2018
+Tweet content: “Don’t Pursue Programming if You Aren’t Passionate About It” by @ebbv https://t.co/UiOTLVoeN4
+------------------------
+
+User Command: node liri.js movie-this Titanic 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Titanic
+Year Released: 19 Dec 1997
+IMBD Rating: 7.7
+Country Produced: USA
+Language: English
+Plot: 84 years later, a 101-year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+Rotten Tomatoes Rating: 8.0
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/titanic/
+
+User Command: node liri.js movie-this The Notebook 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Notebook
+Year Released: 25 Jun 2004
+IMBD Rating: 7.9
+Country Produced: USA
+Language: English
+Plot: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.
+Actors: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner
+Rotten Tomatoes Rating: 5.7
+Rotten Tomatoes URL: https://www.rottentomatoes.com/m/notebook
+
+User Command: node liri.js spotify-this-song Vogue 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Vogue
+Artist: Madonna
+Album: Celebration (double disc version)
+Preview Here: https://p.scdn.co/mp3-preview/6f927c9da5cde0a408a6f939d07174e83e1fa2fc?cid=null
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Feb 13 09:20:40 +0000 2018
+Tweet content: @kontrol_theory I disagree.The article implies that programming should not be treated as a new fad or the flavor of the season.That's all.
+------------------------
+
+https://t.co/S3o1DeqysZ
+------------------------
+Created on: Sun Feb 18 22:30:54 +0000 2018
+Tweet content: RT @cspowers: get started with #open technologies from  @gsingers @_angrbrd  @ato2016   @DukeAMO &amp; more https://t.co/OmeT6KFCXX #ato2016
+------------------------
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js movie-this The Notebook
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+User Command: /usr/local/Cellar/node/8.7.0/bin/node,/Users/firedragonnow/ucBerkeley/liri-node-app/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.7.0/bin/node,/Users/firedragonnow/ucBerkeley/liri-node-app/liri-node-app/liri.js,Adam,Sandler
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js spotify-this-song <Don't worry be happy> 
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.7.0/bin/node,/Users/firedragonnow/ucBerkeley/liri-node-app/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.7.0/bin/node,/Users/firedragonnow/ucBerkeley/liri-node-app/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.7.0/bin/node,/Users/firedragonnow/ucBerkeley/liri-node-app/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js movie-this <movie_name> 
+User Command: /usr/local/Cellar/node/8.7.0/bin/node,/Users/firedragonnow/ucBerkeley/liri-node-app/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
